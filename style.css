@@ -1,11 +1,14 @@
-body {
+main {
     display: flex;
-    flex: auto;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
 
 h2 {
     text-align: center;
+}
 
+p {
+    
 }
